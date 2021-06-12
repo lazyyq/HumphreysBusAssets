@@ -2,5 +2,15 @@
     "assetsVersion": 1,
     "minAppVersion": 1,
     "maxAppVersion": 5,
-    "assetsZipMd5": "41C874C0E9CC89AB0C21FA5B786FDE5F"
+    "assetsZipMd5": "41C874C0E9CC89AB0C21FA5B786FDE5F",
+    "files": [
+        {
+            "name": "1.webp",
+            "md5": "ABCDEF"
+        },
+        {
+            "name": "2.webp",
+            "md5": "ABCDEFG"
+        }
+    ]
 }

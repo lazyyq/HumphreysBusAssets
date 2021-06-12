@@ -1,5 +1,5 @@
 {
-    "assetsVersion": 2,
+    "assetsVersion": 3,
     "minAppVersion": 1,
     "maxAppVersion": 5,
     "assetsZipMd5": "41c874c0e9cc89ab0c21fa5b786fde5f",
@@ -1206,7 +1206,7 @@
         },
         {
             "name": "./humphreysbus.db",
-            "md5": "3e5e8727ea048fd62a20b61ac0fcbb49"
+            "md5": "CF0CD72AA3895F841CA8B23AA63B538B"
         },
         {
             "name": "./map.webp",

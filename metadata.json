@@ -1,7 +1,7 @@
 {
-    "assetsVersion": 2,
+    "assetsVersion": 10,
     "minAppVersion": 1,
-    "maxAppVersion": 5,
+    "maxAppVersion": 3,
     "assetsZipMd5": "41c874c0e9cc89ab0c21fa5b786fde5f",
     "files": [
         {
